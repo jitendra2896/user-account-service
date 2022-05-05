@@ -1,0 +1,19 @@
+{
+  "name": "user-account-service",
+  "version": "1.0.0",
+  "description": "Service to manage User authentication and authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendra2896/user-account-service.git"
+  },
+  "author": "Jitendra Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendra2896/user-account-service/issues"
+  },
+  "homepage": "https://github.com/jitendra2896/user-account-service#readme"
+}
